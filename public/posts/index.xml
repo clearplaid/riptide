@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rising Tide Games</title>
+    <link>http://risingtide.games/posts/</link>
+    <description>Recent content in Posts on Rising Tide Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 11:41:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://risingtide.games/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://risingtide.games/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Feb 2020 11:41:21 -0500</pubDate>
+      
+      <guid>http://risingtide.games/posts/my-first-post/</guid>
+      <description>List
+ went to publix took kids to school built hugo site  </description>
+    </item>
+    
+  </channel>
+</rss>

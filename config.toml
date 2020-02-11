@@ -1,0 +1,4 @@
+baseURL = "http://risingtide.games/"
+languageCode = "en-us"
+title = "Rising Tide Games"
+theme = "ananke"
