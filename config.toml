@@ -1,14 +1,13 @@
-baseURL = "http://risingtide.games/"
+baseURL = "http://localhost:1313"   #"http://risingtide.games/"
 languageCode = "en-us"
 title = "Rising Tide Games"
 theme = "ananke"
 
 
-
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -18,6 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  commentoEnable = true
   favicon = ""
   description = ""
   facebook = ""
